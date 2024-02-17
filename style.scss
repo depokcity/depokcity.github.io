@@ -195,9 +195,8 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: 600;
   font-size: 28px;
-  letter-spacing: 1px;
 }
 
 .site-description {
@@ -212,7 +211,7 @@ img {
 
 nav {
   float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
+  margin-top: 15px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
   font-size: 18px;
 
